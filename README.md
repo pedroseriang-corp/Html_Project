@@ -1,1 +1,1 @@
-All files in the project above are private property and are not for public use. Any attempt to access, copy or modify the code without permission will be subject to legal action in accordance with applicable regulations, that's all, thank you.
+All files in the above project are the property of Pedro Seriang and are permitted to the public. Any attempt to access, copy, reproduce or modify the code will be permitted.
